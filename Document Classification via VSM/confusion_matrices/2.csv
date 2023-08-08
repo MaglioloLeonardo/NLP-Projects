@@ -1,0 +1,11 @@
+,Predicted politica,Predicted cucina,Predicted salute,Predicted economia,Predicted ambiente,Predicted cinema,Predicted scie,Predicted spettacoli,Predicted sport,Predicted motori
+Actual politica,1,0,0,0,0,0,0,1,0,0
+Actual cucina,0,2,0,0,0,0,0,0,0,0
+Actual salute,0,0,2,0,0,0,0,0,0,0
+Actual economia,0,0,1,1,0,0,0,0,0,0
+Actual ambiente,0,0,0,0,2,0,0,0,0,0
+Actual cinema,0,0,0,1,0,1,0,0,0,0
+Actual scie,0,0,0,0,0,0,2,0,0,0
+Actual spettacoli,0,0,0,0,1,0,0,1,0,0
+Actual sport,0,0,0,0,0,0,0,0,2,0
+Actual motori,0,0,0,0,0,0,0,0,0,2
