@@ -10,4 +10,4 @@ Collection of various Natural Language Processing projects involving:
 <br>
 For every subject related to machine learning was conducted a study of the algorithms for a choosen dataset, the work is present as pdf in the directory associated for each project.
 
-(It is possible that the formulas represented in the reports in English contain formulas rendered in a difficult to read manner, to consult them properly consult the Italian version)
+(It is possible that the reports in English contain formulas that are difficult to read; to read them correctly, consult the Italian version)
