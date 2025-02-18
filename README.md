@@ -32,7 +32,7 @@ This project focuses on the implementation of a <strong>dialogue system</strong>
   <li>Evaluates user performance and provides final feedback.</li>
 </ul>
 
-<p><strong>📄 Report available in:</strong> <code>StarWarsBot/Relazione.pdf</code></p>
+<p><strong>📄 Report available in:</strong> <code>Chatbot with NLG</code></p>
 
 <hr>
 
@@ -48,7 +48,7 @@ The methodology includes:
   <li><strong>Evaluation</strong> with cross-validation, confusion matrices, and accuracy measurements.</li>
 </ul>
 
-<p><strong>📄 Report available in:</strong> <code>DocumentClassification/Report.pdf</code></p>
+<p><strong>📄 Report available in:</strong> <code>Document Classification via VSM</code></p>
 
 <hr>
 
@@ -63,7 +63,7 @@ This project implements <strong>TextTiling</strong>, a method for segmenting doc
   <li><strong>Performance evaluation</strong> using accuracy, recall, and F1-score.</li>
 </ul>
 
-<p><strong>📄 Report available in:</strong> <code>TextSegmentation/TextTiling.pdf</code></p>
+<p><strong>📄 Report available in:</strong> <code>Text Segmentation via TextTiling implementation</code></p>
 
 <hr>
 
@@ -78,7 +78,7 @@ This project focuses on <strong>unsupervised topic modeling</strong> using <stro
   <li><strong>Visualization</strong> using <strong>PyLDAvis</strong>.</li>
 </ul>
 
-<p><strong>📄 Report available in:</strong> <code>TopicModeling/Relazione.pdf</code></p>
+<p><strong>📄 Report available in:</strong> <code>Topic modelling via LDA and Gensim</code></p>
 
 <hr>
 
